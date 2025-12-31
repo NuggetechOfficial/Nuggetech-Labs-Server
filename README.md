@@ -1,2 +1,2 @@
 # Nuggetech-Labs-Server
-This is not a useful repository unless you have the iRestalt software installed on your iPhone machine.
+Internal tooling and experiments for iOS system exploration, contains SSH server for iRestalt 26
